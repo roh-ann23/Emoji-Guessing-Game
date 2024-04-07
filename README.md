@@ -22,6 +22,10 @@ In the Emoji Guessing Game, players are challenged to:
 This combination of a timer and score tracking adds excitement and urgency to the gameplay, enhancing the overall experience for players.
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JAVASCRIPT
+
+This project makes use of the following technologies:
+
+- HTML: Used for structuring the web page.
+- CSS: Used for styling and layout.
+- JavaScript: Used for implementing dynamic behavior and functionality.
+
